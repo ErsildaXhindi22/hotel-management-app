@@ -9,7 +9,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Applicati\" />
+    <Folder Include="DataAccess\" />
+    <Folder Include="Prezantim\" />
   </ItemGroup>
 
 </Project>

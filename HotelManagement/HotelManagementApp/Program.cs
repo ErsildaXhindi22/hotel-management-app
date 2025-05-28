@@ -2,6 +2,8 @@ namespace HotelManagementApp
 {
     internal static class Program
     {
+        public static object HotelManagementAppDbContext { get; internal set; }
+
         /// <summary>
         ///  The main entry point for the application.
         /// </summary>
